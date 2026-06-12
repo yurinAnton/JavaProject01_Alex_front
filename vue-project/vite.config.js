@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // port:5173
+=======
+>>>>>>> 675dfa2 (1st commit)
 import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig } from 'vite'

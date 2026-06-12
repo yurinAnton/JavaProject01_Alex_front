@@ -18,7 +18,10 @@
     "@vitejs/plugin-vue": "^6.0.6",
     "@vitejs/plugin-vue-jsx": "^5.1.5",
     "prettier": "3.8.3",
+<<<<<<< HEAD
     "sass-embedded": "^1.100.0",
+=======
+>>>>>>> 675dfa2 (1st commit)
     "vite": "^8.0.8",
     "vite-plugin-vue-devtools": "^8.1.1"
   },
